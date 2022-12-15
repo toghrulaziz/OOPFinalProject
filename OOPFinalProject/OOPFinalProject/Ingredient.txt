@@ -1,0 +1,7 @@
+{"Ingredient Count":22,"Ingredient Id":1,"Ingredient Name":"Pomidor"}
+{"Ingredient Count":49,"Ingredient Id":2,"Ingredient Name":"Yumurta"}
+{"Ingredient Count":25,"Ingredient Id":3,"Ingredient Name":"Biber"}
+{"Ingredient Count":9,"Ingredient Id":4,"Ingredient Name":"Kolbasa"}
+{"Ingredient Count":13,"Ingredient Id":5,"Ingredient Name":"Pendir"}
+{"Ingredient Count":50,"Ingredient Id":6,"Ingredient Name":"Un"}
+{"Ingredient Count":13,"Ingredient Id":7,"Ingredient Name":"kartof"}

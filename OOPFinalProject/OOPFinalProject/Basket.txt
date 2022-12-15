@@ -1,0 +1,1 @@
+{"dish id":1,"dish name":"Pomidor - Yumurta","dish price":2.3}

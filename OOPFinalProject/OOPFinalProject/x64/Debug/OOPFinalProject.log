@@ -1,0 +1,4 @@
+﻿  User.cpp
+C:\Users\User\Desktop\OOP Final Project\OOPFinalProject\OOPFinalProject\User.cpp(82,75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\OOP Final Project\OOPFinalProject\OOPFinalProject\User.cpp(323,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OOPFinalProject.vcxproj -> C:\Users\User\Desktop\OOP Final Project\OOPFinalProject\x64\Debug\OOPFinalProject.exe

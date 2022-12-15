@@ -1,0 +1,2 @@
+{"Dish Id":1,"Dish Name":"Pomidor - Yumurta","Dish Price":2.3,"Dish's Ingredient":["Pomidor","Yumurta"]}
+{"Dish Id":2,"Dish Name":"Pizza","Dish Price":7.4,"Dish's Ingredient":["Pomidor","Biber","Kolbasa","Pendir","Un"]}
